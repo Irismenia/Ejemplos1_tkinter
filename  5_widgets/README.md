@@ -27,7 +27,7 @@
 ## Aquí podremos ver unos angulos de un circulo.
 ![scale_arco](scale_arco.png "scale_arco")
 ### SCROLL
-##
+## Es una ventana donde podremos escrbir pero al mismo timpo nos mostrará el gif que pusimos en el codigo.
 ![scroll](scroll.png "scroll")
 ### SPINBOX
 ## En esta ventana tendremos que llenar un informe donde nos pediran el nombre y la edad, nuestra dirección.
